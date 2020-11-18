@@ -1,0 +1,3 @@
+/Users/jianjiu.xc/code/hadoop-test/src/main/java/com/jianjiu/hadoop/mapreduce/WordCount.java
+/Users/jianjiu.xc/code/hadoop-test/src/main/java/com/jianjiu/hadoop/mapreduce/mapper/WordCountMapper.java
+/Users/jianjiu.xc/code/hadoop-test/src/main/java/com/jianjiu/hadoop/mapreduce/reducer/WordCountReducer.java

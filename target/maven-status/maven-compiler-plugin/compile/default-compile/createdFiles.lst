@@ -1,0 +1,3 @@
+com/jianjiu/hadoop/mapreduce/WordCount.class
+com/jianjiu/hadoop/mapreduce/mapper/WordCountMapper.class
+com/jianjiu/hadoop/mapreduce/reducer/WordCountReducer.class
